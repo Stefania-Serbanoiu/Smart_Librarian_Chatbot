@@ -1,0 +1,128 @@
+[
+  {
+    "id": "bk001",
+    "title": "1984",
+    "summary": "O distopie despre supraveghere totală și control social. Winston Smith încearcă să-și păstreze umanitatea.",
+    "themes": ["libertate", "control social", "adevăr", "totalitarism"]
+  },
+  {
+    "id": "bk002",
+    "title": "The Hobbit",
+    "summary": "Bilbo pornește într-o aventură neașteptată cu piticii pentru a recupera comoara de la dragonul Smaug.",
+    "themes": ["prietenie", "aventură", "curaj", "maturizare"]
+  },
+  {
+    "id": "bk003",
+    "title": "To Kill a Mockingbird",
+    "summary": "O poveste despre justiție și prejudecăți într-un orășel din Sud, prin ochii lui Scout Finch.",
+    "themes": ["justiție", "rasism", "moralitate", "familie"]
+  },
+  {
+    "id": "bk004",
+    "title": "Brave New World",
+    "summary": "O societate aparent perfectă, dar construită pe condiționare și lipsa libertății autentice.",
+    "themes": ["control social", "tehnologie", "fericire artificială"]
+  },
+  {
+    "id": "bk005",
+    "title": "Harry Potter and the Philosopher's Stone",
+    "summary": "Harry descoperă lumea magiei, prieteniile și primele confruntări cu forțele întunecate.",
+    "themes": ["prietenie", "magie", "curaj", "maturizare"]
+  },
+  {
+    "id": "bk006",
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "summary": "Un inel malefic trebuie distrus. O frăție pornește într-o călătorie plină de pericole.",
+    "themes": ["prietenie", "sacrificiu", "bine vs rău", "aventură"]
+  },
+  {
+    "id": "bk007",
+    "title": "The Book Thief",
+    "summary": "Liesel găsește alinare în cărți în timpul celui de-Al Doilea Război Mondial.",
+    "themes": ["război", "prietenie", "pierdere", "puterea cuvintelor"]
+  },
+  {
+    "id": "bk008",
+    "title": "The Catcher in the Rye",
+    "summary": "Holden Caulfield explorează alienarea și autenticitatea într-o lume pe care o simte falsă.",
+    "themes": ["alienare", "identitate", "maturizare"]
+  },
+  {
+    "id": "bk009",
+    "title": "Fahrenheit 451",
+    "summary": "Cărțile sunt arse, iar ideile sunt periculoase. Un pompier își pune întrebări despre rolul său.",
+    "themes": ["cenzură", "libertate", "cunoaștere"]
+  },
+  {
+    "id": "bk010",
+    "title": "The Kite Runner",
+    "summary": "O prietenie marcată de greșeli și căutarea iertării pe fundalul unui Afganistan în schimbare.",
+    "themes": ["prietenie", "vină", "iertare"]
+  },
+  {
+    "id": "bk011",
+    "title": "Dune",
+    "summary": "Intrigi politice și misticism pe planeta Arrakis, sursa celei mai valoroase resurse din univers.",
+    "themes": ["politică", "ecologie", "destin", "putere"]
+  },
+  {
+    "id": "bk012",
+    "title": "Crime and Punishment",
+    "summary": "Raskolnikov luptă cu vinovăția după ce comite o crimă, explorând limitele morale și psihologice.",
+    "themes": ["vină", "moralitate", "justiție", "psihologie"]
+  },
+  {
+    "id": "bk013",
+    "title": "Pride and Prejudice",
+    "summary": "Elizabeth Bennet navighează relații, prejudecăți sociale și dragoste în Anglia secolului XIX.",
+    "themes": ["dragoste", "clasă socială", "orgoliu", "familie"]
+  },
+  {
+    "id": "bk014",
+    "title": "Moby-Dick",
+    "summary": "Căpitanul Ahab este obsedat de vânătoarea balenei albe, simbol al luptei omului cu destinul.",
+    "themes": ["obsesie", "natură", "destin", "răzbunare"]
+  },
+  {
+    "id": "bk015",
+    "title": "Anna Karenina",
+    "summary": "O poveste tragică de dragoste și sacrificiu în Rusia aristocratică.",
+    "themes": ["dragoste", "tragedie", "societate", "familie"]
+  },
+  {
+    "id": "bk016",
+    "title": "The Great Gatsby",
+    "summary": "Jay Gatsby caută iubirea pierdută și visul american, într-o lume plină de iluzii și excese.",
+    "themes": ["visul american", "dragoste", "iluzie", "societate"]
+  },
+  {
+    "id": "bk017",
+    "title": "One Hundred Years of Solitude",
+    "summary": "Saga familiei Buendía în orașul fictiv Macondo, un amestec de realism și magie.",
+    "themes": ["destin", "istorie", "familie", "magie"]
+  },
+  {
+    "id": "bk018",
+    "title": "Frankenstein",
+    "summary": "Victor Frankenstein creează o ființă care scapă de sub control, explorând limitele științei și responsabilității.",
+    "themes": ["responsabilitate", "știință", "izolare", "umanitate"]
+  },
+  {
+    "id": "bk019",
+    "title": "Les Misérables",
+    "summary": "Jean Valjean încearcă să-și răscumpere trecutul într-o societate marcată de nedreptăți.",
+    "themes": ["justiție", "speranță", "sacrificiu", "moralitate"]
+  },
+  {
+    "id": "bk020",
+    "title": "The Alchemist",
+    "summary": "Santiago pornește într-o călătorie pentru a-și descoperi destinul și adevărata comoară.",
+    "themes": ["destin", "călătorie", "autodescoperire", "spiritualitate"]
+  },
+  {
+    "id": "bk021",
+    "title": "Dracula",
+    "summary": "Contele Dracula aduce teroare în Anglia victoriană, într-o poveste despre frică și supranatural.",
+    "themes": ["frică", "supranatural", "bine vs rău", "sexualitate"]
+  }
+]

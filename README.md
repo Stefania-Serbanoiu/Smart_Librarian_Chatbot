@@ -51,5 +51,11 @@ streamlit run frontend/streamlit_app.py
 - “O carte cu prietenie si magie”  
 - “Ce recomanzi pentru cineva care prefera carti fantasy?”  
 - “Caut o distopie cu teme puternice”  
+- “Ce este 1984?”  
+- “Recomandari de citit pentru o zi ploioasa”  
+- “Ceva ce aduce aminte de Paris/New York”    
+- “Vreau o carte despre libertate și control social.”  
+  
+
 
 ---

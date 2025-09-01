@@ -101,6 +101,16 @@ _FULL_SUMMARIES = {
     "Dracula": (
         "Contele Dracula călătorește din Transilvania în Anglia pentru a-și răspândi puterea. "
         "Un grup de oameni curajoși luptă împotriva lui, într-o poveste despre frică, seducție și supranatural."
+    ),
+    "The Lord of the Rings": (
+        "Frodo Baggins, un hobbit, pornește într-o călătorie epică pentru a distruge inelul lui Sauron. "
+        "Povestea explorează teme de prietenie, sacrificiu și lupta între bine și rău."
+    ),
+    "The Name of the Wind": (
+        "Kvothe, un tânăr talentat, își povestește viața plină de aventuri, magie și muzică, în căutarea adevărului despre trecutul său."
+    ),
+    "The Chronicles of Narnia": (
+        "Cinci copii sunt transportați în lumea magică a Narniei, unde se alătură luptei împotriva regelui malefic."
     )
 }
 

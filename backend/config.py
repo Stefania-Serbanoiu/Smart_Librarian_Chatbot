@@ -15,7 +15,7 @@ CHAT_MODEL = "gpt-4o-mini"
 IMAGE_MODEL = "gpt-image-1"
 
 # Data & Chroma
-DATA_FILE = Path(__file__).resolve().parents[1] / "data" / "books.json"
+DATA_FILE = Path(__file__).resolve().parents[1] / "data" / "book_summaries.json"
 CHROMA_DIR = str(Path(__file__).resolve().parents[1] / "chroma_db")
 COLLECTION_NAME = "book_summaries"
 

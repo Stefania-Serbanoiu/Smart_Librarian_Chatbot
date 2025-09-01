@@ -48,8 +48,8 @@ streamlit run frontend/streamlit_app.py
 
 - **Frontend (Streamlit)**  : Simple web UI. 
 ## Example Queries
-- “Vreau o carte despre prietenie și magie”  
-- “Ce recomanzi pentru cineva care iubește povești de război?”  
-- “Caut o distopie clasică”  
+- “O carte cu prietenie si magie”  
+- “Ce recomanzi pentru cineva care prefera carti fantasy?”  
+- “Caut o distopie cu teme puternice”  
 
 ---

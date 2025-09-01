@@ -18,13 +18,18 @@ venv\Scripts\activate.bat
 pip install -r requirements.txt
 ```
 
+4. Create a `.env` file like this and replace with a valid key :
+```
+OPENAI_API_KEY=sk-....
+```
 
-4. Run backend:
+
+5. Run backend:
 ```
 uvicorn backend.app:app --reload --port 8000
 ```
 
-5. Run frontend: (streamlit UI):
+6. Run frontend: (streamlit UI):
 ```
 streamlit run frontend/streamlit_app.py
 ```

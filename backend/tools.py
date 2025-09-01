@@ -110,6 +110,9 @@ _FULL_SUMMARIES = {
     ),
     "The Chronicles of Narnia": (
         "Cinci copii sunt transportați în lumea magică a Narniei, unde se alătură luptei împotriva regelui malefic."
+    ),
+    "All the light we cannot see": (
+        "În timpul celui de-al Doilea Război Mondial, o fetiță oarbă din Franța și un băiat german se confruntă cu provocările și ororile războiului."
     )
 }
 

@@ -7,12 +7,14 @@ from .config import OPENAI_API_KEY, EMBED_MODEL, CHROMA_DIR, COLLECTION_NAME, DA
 
 
 def _load_books() -> List[Dict[str, Any]]:
+    """Load books data from the JSON file ; returns a list of dicts"""
     if not DATA_FILE.exists():
         raise FileNotFoundError(f"Missing data file: {DATA_FILE}")
     return json.loads(Path(DATA_FILE).read_text(encoding="utf-8"))
 
 
 def _seed_if_empty(collection):
+    """Seed the collection with book data if it’s empty"""
     if collection.count() > 0:
         return
     books = _load_books()
@@ -26,6 +28,7 @@ def _seed_if_empty(collection):
 
 
 def get_collection():
+    """Return a ChromaDB collection, seeding it if empty"""
     openai_ef = embedding_functions.OpenAIEmbeddingFunction(
         api_key=OPENAI_API_KEY, model_name=EMBED_MODEL
     )
@@ -39,6 +42,7 @@ def get_collection():
 
 
 def search(query: str, top_k: int = 4):
+    """Search the collection and return top matches as dicts"""
     col = get_collection()
     res = col.query(query_texts=[query], n_results=top_k)
     hits = []

@@ -1,4 +1,3 @@
-# backend/rag.py
 from typing import List, Dict, Any, Tuple, Optional
 from openai import OpenAI
 import json

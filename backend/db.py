@@ -1,4 +1,3 @@
-#backend/db.py
 import json
 import chromadb
 from typing import List, Dict, Any

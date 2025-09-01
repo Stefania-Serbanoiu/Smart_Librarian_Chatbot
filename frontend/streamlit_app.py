@@ -1,4 +1,3 @@
-#frontend/streamlit_app.py
 import os
 import requests
 import streamlit as st
